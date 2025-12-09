@@ -94,11 +94,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-
-#Candidate content: content=
-# Content(
-#   parts=[
-#       Part(video_metadata=None, thought=None, code_execution_result=None, executable_code=None, file_data=None, function_call=FunctionCall(id=None, args={}, name='get_files_info'), function_response=None, inline_data=None, text=None)
-#   ], 
-#   role='model')
